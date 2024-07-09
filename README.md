@@ -22,6 +22,18 @@ Processing, Java
 
 ＜実行方法＞
 
+"マーカー.png"を印刷します。
+
+"\Fish\processing-4.3\processing.exe"を実行し、メニューバーの"ファイル"の"開く"から"\Fish\Fish.pde"を探して開きます。
+
+PCにカメラを接続して"\Fish\reacTIVision-1.5.1-win64\reacTIVision.exe"を実行します。
+
+"reacTIVision"が起動している状態で"Processing"画面上の再生ボタンを押し、印刷してある"マーカー"をカメラに映すと遊ぶことができます。
+
 ＜操作方法＞
+
+"reacTIVisionマーカー"（"マーカー.png"）でポイを動かすことができます。
+
+キーボードの"Escape"でゲームを終了させることができます。
 
 ＜動画＞
