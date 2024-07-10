@@ -37,3 +37,5 @@ PCにカメラを接続して"\Fish\reacTIVision-1.5.1-win64\reacTIVision.exe"�
 キーボードの"Escape"でゲームを終了させることができます。
 
 ＜動画＞
+
+"Fish.mp4"から観れます。
